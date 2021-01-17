@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Lars,
 
 Maintainer of:
+- https://github.com/LayZeeDK/rxjs-multi-scan
+- https://github.com/LayZeeDK/rxjs-subscription-count
 - https://github.com/ngworker/angular-versions-action
 - https://github.com/ngworker/lumberjack
 - https://github.com/ngworker/lumberjack-custom-driver
