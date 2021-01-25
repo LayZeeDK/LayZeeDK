@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Lars,
 
 Maintainer of:
+- https://github.com/es-worker/esworker
 - https://github.com/LayZeeDK/ngx-decorators
 - https://github.com/LayZeeDK/rxjs-multi-scan
 - https://github.com/LayZeeDK/rxjs-subscription-count
