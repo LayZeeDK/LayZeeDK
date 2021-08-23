@@ -10,6 +10,8 @@ Maintainer of:
 - https://github.com/ngworker/lumberjack-custom-driver
 - https://github.com/ngworker/ngworker
 - https://github.com/nx-worker/nxworker
+- https://github.com/this-is-angular
+- https://github.com/this-is-learning
 
 You can reach out to me on Twitter [@LayZeeDK](https://twitter.com/LayZeeDK) or catch up with my tech writing on https://dev.to/layzee.
 
