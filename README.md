@@ -13,6 +13,8 @@ Maintainer of:
 - https://github.com/this-is-angular
 - https://github.com/this-is-learning
 
+Author of 📗 https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy.
+
 You can reach out to me on Twitter [@LayZeeDK](https://twitter.com/LayZeeDK) or catch up with my tech writing on [DEV Community](https://dev.to/layzee).
 
 Playlist of video recordings of tech talks, talkshows, and livestreams featuring me:
