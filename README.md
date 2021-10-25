@@ -32,3 +32,5 @@ Slides from my tech talks: https://speakerdeck.com/layzee
 [Twitter profile](https://twitter.com/LayZeeDK)
 
 [YouTube channel](https://www.youtube.com/c/LarsGyrupBrinkNielsen)
+
+[DEV Community blog](https://dev.to/layzee)
