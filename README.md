@@ -24,6 +24,8 @@ https://youtube.com/playlist?list=PLyY4r1b00A5CBfouiDwBR098SiRhcMRIG
 Slides from my tech talks: https://speakerdeck.com/layzee
 
 # Social
+[GitHub Sponsors profile](https://github.com/sponsors/LayZeeDK)
+
 [LinkedIn profile](https://www.linkedin.com/in/larsgbn/)
 
 [GitHub Stars profile](https://stars.github.com/profiles/layzeedk/)
