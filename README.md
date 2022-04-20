@@ -3,6 +3,7 @@
 Maintainer of:
 - https://github.com/gitropolis
 - https://github.com/LayZeeDK/ngx-decorators
+- https://github.com/LayZeeDK/ngx-foundation-sites
 - https://github.com/LayZeeDK/rxjs-multi-scan
 - https://github.com/LayZeeDK/rxjs-subscription-count
 - https://github.com/ngworker/angular-versions-action
