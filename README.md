@@ -8,7 +8,7 @@
 You can reach out to me on Twitter [@LayZeeDK](https://twitter.com/LayZeeDK), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
 
 # Free and Open Source Software (FOSS) maintainer
-I maintain the following libraries and tools.
+I maintain the following libraries and tools. I accept private and corporate donations through [❤️ GitHub Sponsors](https://github.com/sponsors/LayZeeDK).
 
 <table align="center">
   <tr>
