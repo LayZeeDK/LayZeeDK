@@ -41,7 +41,6 @@ I maintain the following libraries and tools. I accept private and corporate don
 I am a member of the following FOSS teams:
 - [👷 ngworkers](https://github.com/ngworker): Angular libraries and utilities.
 - [🐳 nxworkers](https://github.com/nx-worker): (Nrwl) Nx libraries and utilities.
-- [⚡ RxAngular](https://github.com/rx-angular): Reactive extensions for Angular.
 
 # Open Learning maintainer and organizer
 I am co-founder, organizer, and maintainer of these Open Learning GitHub organizations and projects. I provide free and open platforms for public tech contributors and content creators to learn, grow, and share their knowledge in public.
