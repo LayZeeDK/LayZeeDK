@@ -76,6 +76,12 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
 
 📗 *Accelerating Angular Development with Ivy*, 2021 \[[Print](https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-dp-180020521X/dp/180020521X/)\] \[[Kindle](https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-ebook-dp-B09CHH9CSF/dp/B09CHH9CSF/)\] \[[E-book](https://www.packt.com/product/web-development/b16295-accelerating-angular-development-with-ivy/)\] \[[Code](https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy)\]
 
+A book for experienced Angular developers covering Angular Ivy versions 9-12.
+
+📘 *The Angular Developer's Nx Handbook* \[[Early draft](https://leanpub.com/the-angular-developers-nx-handbook/)\]
+
+A free book about the Nx build framework for Angular developers.
+
 # Awards
 It is my great honor to be award winner of:
 - 🏆 2x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003831?fullName=Lars%20Gyrup%20Brink%20Nielsen)
