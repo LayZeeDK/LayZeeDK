@@ -72,15 +72,29 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
 
 # Published author
 
-[<img src="https://user-images.githubusercontent.com/6364586/170886827-ae4e72c6-e6f9-4339-9bda-6053d3f6f4ee.png" alt="Accelerating Angular Development with Ivy (book)" height="512px">](https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-dp-180020521X/dp/180020521X/)
-
-📗 *Accelerating Angular Development with Ivy*, 2021 \[[Print](https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-dp-180020521X/dp/180020521X/)\] \[[Kindle](https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-ebook-dp-B09CHH9CSF/dp/B09CHH9CSF/)\] \[[E-book](https://www.packt.com/product/web-development/b16295-accelerating-angular-development-with-ivy/)\] \[[Code](https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy)\]
-
-A book for experienced Angular developers covering Angular Ivy versions 9-12.
-
-📘 *The Angular Developer's Nx Handbook* \[[Early draft](https://leanpub.com/the-angular-developers-nx-handbook/)\]
-
-A free book about the Nx build framework for Angular developers.
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-dp-180020521X/dp/180020521X/" target="_blank" rel="noopener">
+        <img src="https://user-images.githubusercontent.com/6364586/170886827-ae4e72c6-e6f9-4339-9bda-6053d3f6f4ee.png" alt="Accelerating Angular Development with Ivy (book)" height="512px"><br>
+        📗 Accelerating Angular Development with Ivy, 2021
+      </a><br>
+      A book for experienced Angular developers covering Angular Ivy versions 9-12.<br>
+      [<a href="https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-dp-180020521X/dp/180020521X/" target="_blank" rel="noopener">Print</a>]
+      [<a href="https://www.amazon.com/Accelerating-Angular-Development-Ivy-practical-ebook-dp-B09CHH9CSF/dp/B09CHH9CSF/" target="_blank" rel="noopener">Kindle</a>]
+      [<a href="https://www.packt.com/product/web-development/b16295-accelerating-angular-development-with-ivy/" target="_blank" rel="noopener">E-book</a>]
+      [<a href="https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy" target="_blank" rel="noopener">Code</a>]
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://leanpub.com/the-angular-developers-nx-handbook/)" target="_blank" rel="noopener">
+        <img src="https://user-images.githubusercontent.com/6364586/177139256-c51459fd-cf50-4a9c-8127-ab72883086f3.jpg" alt="The Angular Developer's Nx Handbook" height="512px"><br>
+        📘 The Angular Developer's Nx Handbook, Early Draft
+      </a><br>
+      A free book covering everything an Angular developer needs to get started with the Nx build framework.<br>
+      [<a href="https://leanpub.com/the-angular-developers-nx-handbook/" target="_blank" rel="noopener">Early draft</a>]
+    </td>
+  </tr>
+</table>
 
 # Awards
 It is my great honor to be award winner of:
