@@ -98,7 +98,7 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
 
 # Awards
 It is my great honor to be award winner of:
-- 🏆 2x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003831?fullName=Lars%20Gyrup%20Brink%20Nielsen)
+- 🏆 3x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003831?fullName=Lars%20Gyrup%20Brink%20Nielsen)
 - 🌟 2x [GitHub Star](https://stars.github.com/profiles/layzeedk/)
 - 🦸‍♂️ Angular Hero of Education 2021 at [ngAwards](https://ngpoland.pl/) for authoring [📗 Accelerating Angular Development with Ivy](https://www.packtpub.com/product/accelerating-angular-development-with-ivy/9781800205215)
 - ⚔️ [Battle of the Frameworks 2021](https://www.crowdcast.io/e/botf2021) representing Angular
