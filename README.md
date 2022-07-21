@@ -86,12 +86,12 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
       [<a href="https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy" target="_blank" rel="noopener">Code</a>]
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://leanpub.com/the-angular-developers-nx-handbook/)" target="_blank" rel="noopener">
+      <a href="https://leanpub.com/the-angular-developers-nx-handbook" target="_blank" rel="noopener">
         <img src="https://user-images.githubusercontent.com/6364586/177139256-c51459fd-cf50-4a9c-8127-ab72883086f3.jpg" alt="The Angular Developer's Nx Handbook" height="512px"><br>
         📘 The Angular Developer's Nx Handbook, Early Draft
       </a><br>
       A free book covering everything an Angular developer needs to get started with the Nx build framework.<br>
-      [<a href="https://leanpub.com/the-angular-developers-nx-handbook/" target="_blank" rel="noopener">Early draft</a>]
+      [<a href="https://leanpub.com/the-angular-developers-nx-handbook" target="_blank" rel="noopener">Early draft</a>]
     </td>
   </tr>
 </table>
