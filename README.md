@@ -121,5 +121,6 @@ I especially enjoy the community support that lead to most of these awards, my p
 - [GitHub Sponsors profile](https://github.com/sponsors/LayZeeDK)
 - [GitHub Stars profile](https://stars.github.com/profiles/layzeedk/)
 - [Microsoft MVP profile](https://mvp.microsoft.com/en-us/mvp/Lars%20Gyrup%20Brink%20Nielsen-5003831)
+- [Mastodon profile](https://libretooth.gr/@LayZee)
 - [Twitter profile](https://twitter.com/LayZeeDK)
 - [LinkedIn profile](https://www.linkedin.com/in/larsgbn/)
