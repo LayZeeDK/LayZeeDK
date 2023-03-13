@@ -2,8 +2,7 @@
 
 - 🏆📗 Award-winning author
 - 🏆👨‍💻 Award-winning open-source maintainer
-- 🏆🏫 Award-winning Open Learning maintainer
-- 🌱⚡ Open-source developer and open-source advocate in the European energy industry
+- 🏆🏫 Award-winning open learning maintainer
 
 You can reach out to me on Twitter [@LayZeeDK](https://twitter.com/LayZeeDK), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
 
