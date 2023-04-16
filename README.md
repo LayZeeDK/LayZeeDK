@@ -11,19 +11,26 @@ I maintain the following libraries and tools. I accept private and corporate don
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.333333%">
       <a href="https://github.com/ngworker/ngworker/tree/main/packages/spectacular" target="_blank" rel="noopener">
         <img src="https://user-images.githubusercontent.com/6364586/171054811-8c8afdc8-1b62-4604-95d9-cefcee440c3c.png" alt="Spectacular" height="256px"><br>
         🎭 Spectacular
       </a><br>
       Integration testing library for Angular applications and libraries.
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.333333%">
       <a href="https://github.com/ngworker/lumberjack" target="_blank" rel="noopener">
         <img src="https://user-images.githubusercontent.com/6364586/171054296-55c3e002-3047-474e-8141-b22124d76727.png" alt="Lumberjack" height="256px"><br>
         🪓 Lumberjack</a><br>
       </a>
       Declarative, configurable, plugin-based logging library for Angular applications to be used with any logging provider.
+    </td>
+    <td align="center" width="33.333333%">
+      <a href="https://github.com/rx-angular/rx-angular" target="_blank" rel="noopener">
+        <img src="https://www.rx-angular.io/img/logo.png" alt="RxAngular" height="256px"><br>
+        ⚡ RxAngular</a><br>
+      </a>
+      Reactive performance and DX extensions for Angular.
     </td>
   </tr>
 </table>
@@ -40,7 +47,7 @@ I maintain the following libraries and tools. I accept private and corporate don
 I am a member of the following FOSS teams:
 - [👷 ngworkers](https://github.com/ngworker): Angular libraries and utilities.
 - [🐳 nxworkers](https://github.com/nx-worker): (Nrwl) Nx libraries and utilities.
-- [⚡ RxAngular](https://github.com/rx-angular): Reactive extensions for Angular.
+- [⚡ RxAngular](https://github.com/rx-angular): Reactive performance and DX extensions for Angular.
 
 # Open Learning maintainer and organizer
 I am co-founder, organizer, and maintainer of these Open Learning GitHub organizations and projects. I provide free and open platforms for public tech contributors and content creators to learn, grow, and share their knowledge in public.
