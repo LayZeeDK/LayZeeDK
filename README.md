@@ -11,26 +11,36 @@ I maintain the following libraries and tools. I accept private and corporate don
 
 <table align="center">
   <tr>
-    <td align="center" width="33.333333%">
+    <td align="center" width="50%">
       <a href="https://github.com/ngworker/ngworker/tree/main/packages/spectacular" target="_blank" rel="noopener">
         <img src="https://user-images.githubusercontent.com/6364586/171054811-8c8afdc8-1b62-4604-95d9-cefcee440c3c.png" alt="Spectacular" height="256px"><br>
         🎭 Spectacular
       </a><br>
       Integration testing library for Angular applications and libraries.
     </td>
-    <td align="center" width="33.333333%">
+    <td align="center" width="50%">
       <a href="https://github.com/ngworker/lumberjack" target="_blank" rel="noopener">
         <img src="https://user-images.githubusercontent.com/6364586/171054296-55c3e002-3047-474e-8141-b22124d76727.png" alt="Lumberjack" height="256px"><br>
         🪓 Lumberjack</a><br>
       </a>
       Declarative, configurable, plugin-based logging library for Angular applications to be used with any logging provider.
     </td>
-    <td align="center" width="33.333333%">
+    
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/rx-angular/rx-angular" target="_blank" rel="noopener">
         <img src="https://www.rx-angular.io/img/logo.png" alt="RxAngular" height="256px"><br>
         ⚡ RxAngular</a><br>
       </a>
       Reactive performance and DX extensions for Angular.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ngworker/router-component-store" target="_blank" rel="noopener">
+        <img src="https://user-images.githubusercontent.com/6364586/232280638-586fa2fb-eff9-4e88-928b-f4106c850671.png" alt="Router Component Store" height="256px"><br>
+       🛣️ Router Component Store</a><br>
+      </a>
+      An Angular Router-connecting NgRx component store.
     </td>
   </tr>
 </table>
@@ -38,7 +48,6 @@ I maintain the following libraries and tools. I accept private and corporate don
 
 - [🌱 Lumberjack log driver GitHub repository template](https://github.com/ngworker/lumberjack-custom-driver): Turnkey repository template for creating a publishable Lumberjack log driver for any logging provider.
 - [🛠️ Angular versions GitHub action](https://github.com/ngworker/angular-versions-action): GitHub Action to set up Angular and related dependencies.
-- [🛣️ Router ComponentStore](https://github.com/ngworker/router-component-store): Angular Router-connecting NgRx component stores.
 - [🧊 Foundation for Angular Sites](https://github.com/LayZeeDK/ngx-foundation-sites): (Zurb) Foundation for Sites components with modern Angular and CSS Custom Properties support.
 - [✨ multiScan operator for RxJS](https://github.com/LayZeeDK/rxjs-multi-scan): Combine multiple sources into a single scan operation.
 - [🧮 subscriptionCount operator for RxJS](https://github.com/LayZeeDK/rxjs-subscription-count): Count subscriptions to observables. Useful for testing Observable flattening strategies.
@@ -68,7 +77,7 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
       </a><br>
       Free, open, and honest Angular education free from conflict of interest. Part of This is Learning.
     </td>
-  </tr>
+  </tr
 </table>
  
 - [🌆 Gitropolis](https://github.com/gitropolis): Sample GitHub explorer apps for educational purposes.
