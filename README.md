@@ -37,14 +37,13 @@ I maintain the following libraries and tools. I accept private and corporate don
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ngworker/router-component-store" target="_blank" rel="noopener">
-        <img src="https://user-images.githubusercontent.com/6364586/232280638-586fa2fb-eff9-4e88-928b-f4106c850671.png" alt="Router Component Store" height="256px"><br>
+        <img src="https://user-images.githubusercontent.com/6364586/232342929-9b5bc640-5c2a-44e0-80f2-83f362b5a412.png" alt="Router Component Store" height="256px"><br>
        🛣️ Router Component Store</a><br>
       </a>
       An Angular Router-connecting NgRx component store.
     </td>
   </tr>
 </table>
-
 
 - [🌱 Lumberjack log driver GitHub repository template](https://github.com/ngworker/lumberjack-custom-driver): Turnkey repository template for creating a publishable Lumberjack log driver for any logging provider.
 - [🛠️ Angular versions GitHub action](https://github.com/ngworker/angular-versions-action): GitHub Action to set up Angular and related dependencies.
