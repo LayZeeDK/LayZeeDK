@@ -4,7 +4,7 @@
 - 🏆👨‍💻 Award-winning open-source maintainer
 - 🏆🏫 Award-winning open learning maintainer
 
-You can reach out to me on Twitter [@LayZeeDK](https://twitter.com/LayZeeDK), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
+You can reach out to me on Mastodon [@LayZeeDK@mastodon.nu](https://mastodon.nu/@LayZee), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
 
 # Free and Open Source Software (FOSS) maintainer
 I maintain the following libraries and tools. I accept private and corporate donations through [❤️ GitHub Sponsors](https://github.com/sponsors/LayZeeDK).
@@ -135,6 +135,5 @@ I especially enjoy the community support that lead to most of these awards, my p
 - [GitHub Sponsors profile](https://github.com/sponsors/LayZeeDK)
 - [GitHub Stars profile](https://stars.github.com/profiles/layzeedk/)
 - [Microsoft MVP profile](https://mvp.microsoft.com/en-us/mvp/Lars%20Gyrup%20Brink%20Nielsen-5003831)
-- [Mastodon profile](https://libretooth.gr/@LayZee)
-- [Twitter profile](https://twitter.com/LayZeeDK)
+- [Mastodon profile](https://mastodon.nu/@LayZee)
 - [LinkedIn profile](https://www.linkedin.com/in/larsgbn/)
