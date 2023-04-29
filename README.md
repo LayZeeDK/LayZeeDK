@@ -4,7 +4,7 @@
 - 🏆👨‍💻 Award-winning open-source maintainer
 - 🏆🏫 Award-winning open learning maintainer
 
-You can reach out to me on Mastodon [@LayZeeDK@mastodon.nu](https://mastodon.nu/@LayZee), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
+You can reach out to me on Mastodon [@LayZee@mastodon.nu](https://mastodon.nu/@LayZee), [LinkedIn](https://www.linkedin.com/in/larsgbn/), or email [larsbrinknielsen@gmail.com](mailto:larsbrinknielsen@gmail.com).
 
 # Free and Open Source Software (FOSS) maintainer
 I maintain the following libraries and tools. I accept private and corporate donations through [❤️ GitHub Sponsors](https://github.com/sponsors/LayZeeDK).
