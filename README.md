@@ -114,6 +114,7 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
 It is my great honor to be award winner of:
 - 🏆 3x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003831?fullName=Lars%20Gyrup%20Brink%20Nielsen)
 - 🌟 3x [GitHub Star](https://stars.github.com/profiles/layzeedk/)
+- 🌊 [Nx Champion](https://nx.dev/community#champions)
 - 🦸‍♂️ Angular Hero of Education 2021 at [ngAwards](https://ngpoland.pl/) for authoring [📗 Accelerating Angular Development with Ivy](https://www.packtpub.com/product/accelerating-angular-development-with-ivy/9781800205215)
 - ⚔️ [Battle of the Frameworks 2021](https://www.crowdcast.io/e/botf2021) representing Angular
 - 🏖️ World Summit Award (WSA) 2015: Nominated in the category *Culture & Tourism* with the project *Mere Kirke for Pengene* (*More Church for the same Money*). Issued by World Summit on the Information Society.
