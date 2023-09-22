@@ -45,7 +45,6 @@ I maintain the following libraries and tools. I accept private and corporate don
   </tr>
 </table>
 
-- [🌱 Lumberjack log driver GitHub repository template](https://github.com/ngworker/lumberjack-custom-driver): Turnkey repository template for creating a publishable Lumberjack log driver for any logging provider.
 - [🛠️ Angular versions GitHub action](https://github.com/ngworker/angular-versions-action): GitHub Action to set up Angular and related dependencies.
 - [🧊 Foundation for Angular Sites](https://github.com/LayZeeDK/ngx-foundation-sites): (Zurb) Foundation for Sites components with modern Angular and CSS Custom Properties support.
 - [✨ multiScan operator for RxJS](https://github.com/LayZeeDK/rxjs-multi-scan): Combine multiple sources into a single scan operation.
