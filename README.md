@@ -111,8 +111,8 @@ I am co-founder, organizer, and maintainer of these Open Learning GitHub organiz
 
 # Awards
 It is my great honor to be award winner of:
-- 🏆 5x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/e38dd7bb-7eb7-ea11-a812-000d3a8ccaf5)
-- 🌟 4x [GitHub Star](https://stars.github.com/profiles/layzeedk/)
+- 🏆 6x [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/e38dd7bb-7eb7-ea11-a812-000d3a8ccaf5)
+- 🌟 4x [GitHub Star](https://stars.github.com/alumni/)
 - 🌊 [Nx Champion](https://nx.dev/community#champions)
 - 🦸‍♂️ Angular Hero of Education 2021 at [ngAwards](https://ngpoland.pl/) for authoring [📗 Accelerating Angular Development with Ivy](https://www.packtpub.com/product/accelerating-angular-development-with-ivy/9781800205215)
 - ⚔️ [Battle of the Frameworks 2021](https://www.crowdcast.io/e/botf2021) representing Angular
